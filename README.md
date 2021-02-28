@@ -1,5 +1,4 @@
 # hello-world
-Just follows the guides
 
 Hi Humans!
 
